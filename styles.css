@@ -143,6 +143,7 @@ img{
 .bottom-sign-up{
     display: flex;
     justify-content: center;
+    gap: 30px;
 }
 
 .bottom-button{

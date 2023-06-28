@@ -86,7 +86,7 @@ h2{
 
 .pictures{
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
 }
 
 .picture{
@@ -100,4 +100,28 @@ h2{
 img{
     height: 150px;
     width: 150px;
+}
+
+.two{
+    margin: 102px
+}
+
+.three{
+    background: #E5E7EB;
+    display: block;
+    padding: 100px;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.author{
+    display: flex;
+    justify-content: flex-end;
 }
